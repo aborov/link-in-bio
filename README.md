@@ -1,6 +1,6 @@
-# Aleksei Borovikov - Portfolio Webpage  
+# Aleksei Borovikov - Linkpad  
 
-Welcome to my personal portfolio webpage!  
+Welcome to my personal linkpad webpage!  
 
 ## 🌐 Links  
 - **Website**: [aborovikov.com](https://aborovikov.com/)  
