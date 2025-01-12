@@ -1,3 +1,20 @@
-# static-html-template
+# Aleksei Borovikov - Portfolio Webpage  
 
-Use this template to create static HTML websites and deploy them on Render.
+Welcome to my personal portfolio webpage!  
+
+## 🌐 Links  
+- **Website**: [aborovikov.com](https://aborovikov.com/)  
+- **IMDb Profile**: [IMDb](https://www.imdb.com/name/nm8435878/)  
+- **Cinematch**: [Personalized Movie Recommendations](http://cinematch.net/)  
+- **Survey**: [How Do You Watch Movies & TV Shows?](https://forms.gle/AnyymJAJL3AQfkD89)  
+
+## 🛠️ Technologies Used  
+- **HTML** & **CSS**  
+- **Font Awesome** for icons  
+- **Google Fonts** for typography  
+
+## 🚀 Usage  
+To view locally:  
+1. Clone the repository:  
+   ```bash
+   git clone https://github.com/username/portfolio
